@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06a32fd-a27e-455a-b1b0-1591b7baeb09" name="Changes" comment="">
+    <list default="true" id="a06a32fd-a27e-455a-b1b0-1591b7baeb09" name="Changes" comment="sqlite">
       <change afterPath="$PROJECT_DIR$/.idea/alchemy.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -139,12 +139,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711266415336</updated>
-      <workItem from="1711266461589" duration="12072000" />
+      <workItem from="1711266461589" duration="12560000" />
     </task>
+    <task id="LOCAL-00001" summary="sqlite">
+      <option name="closed" value="true" />
+      <created>1711292327858</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711292327858</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sqlite" />
+    <option name="LAST_COMMIT_MESSAGE" value="sqlite" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
